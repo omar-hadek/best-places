@@ -16,6 +16,7 @@ class GreatPlacesScreen extends StatelessWidget {
         ],
       ),body: Center(
         child: Text('great places'),
+        
       )
     );
   }
