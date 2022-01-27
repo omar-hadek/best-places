@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:great_places_app/providers/great_places.dart';
 import 'package:great_places_app/screens/add_place_screen.dart';

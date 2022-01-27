@@ -24,7 +24,7 @@ class _ImageFieldState extends State<ImageField> {
     if (imageFile == null) {
       return;
     }
-    final File image = File(imageFile!.path);
+    final File image = File(imageFile.path);
     setState(() {
       _storedImage = image;
     });
